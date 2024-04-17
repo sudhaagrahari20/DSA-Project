@@ -1,0 +1,1 @@
+This project is Sorting visualizer to understand how different sorting algorithms work this visualizer includes bubble-sort,selection-sort,insertion-sort,shell-sort,quick-sort,merge-sort sorting algorithms.
